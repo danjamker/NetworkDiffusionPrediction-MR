@@ -1,0 +1,13 @@
+networkx
+matplotlib
+python-louvain
+powerlaw
+numpy
+mrjob
+scipy
+pandas
+hdfs
+patsy
+louvain
+click
+scikit-learn
